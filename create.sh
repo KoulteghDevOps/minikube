@@ -12,6 +12,7 @@
 
 bash tools/terraform/install.sh
 
+
 cd tools/minikube
 
 if [ ! -f "~/.ssh/id_rsa.pub" ]; then
